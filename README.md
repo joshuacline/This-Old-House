@@ -1,5 +1,6 @@
 # This-Old-House
 - ![Alt text](/stigmatizedproperty.jpg "")
+
 ***A quick reference guide for tenants and new owners***
 
 - 1. Dealing with bugs and pests. Knowing how to indentify them. Your housemates may spot it before you do.
@@ -8,8 +9,10 @@
 - 4. What are trap houses and what do they look like?
 
 - ![Alt text](/hiddencosts.jpg "")
+
 # Dealing With Bugs & Pests
 - ![Alt text](/raid.png "")
+
  ***What to Do When Facing a Bug Problem***
 - Document Everything: Take photos/videos of pests, infestations, and keep record of personal damages.
 - Give Written Notice: Send a formal, written (or electronic) notice to your landlord detailing the infestation and referencing your rights, as per local laws (like Colorado's HB19-1328 for bed bugs).
