@@ -10,6 +10,10 @@
 
 - ![Alt text](/hiddencosts.jpg "")
 
+# Styling, Touch-ups and Furnishings
+- <img src="/mantelpiece.jpg" width="720">
+- <img src="/cameron.gif" width="720">
+
 # Dealing With Bugs & Pests
 - ![Alt text](/raid.png "")
 
@@ -19,7 +23,3 @@
 - Know Your Local Laws: Landlord responsibilities vary; check your state/city laws (e.g., Colorado requires landlords to inspect within 96 hours of bed bug notice).
 - Warranty of Habitability: Landlords must maintain safe, habitable conditions.
 
- ***Common Landlord Failures & Tenant Recourse***
-- Landlord must inspect within 96 hours and develop a plan; failure makes the unit uninhabitable.
-- Ignoring Other Pests: For mice or roaches, if the condition makes the unit unsafe, the landlord must act under the Warranty of Habitability.
-- Liability for Damages: A negligent landlord can be liable for tenant's physical/emotional distress, lost wages, and property loss. 
