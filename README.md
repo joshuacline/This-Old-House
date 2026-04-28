@@ -15,11 +15,16 @@
 - <img src="/cameron.gif" width="720">
 
 # Dealing With Bugs & Pests
-- ![Alt text](/raid.png "")
+- <img src="/raid.png" width="720">
 
  ***What to Do When Facing a Bug Problem***
 - Document Everything: Take photos/videos of pests, infestations, and keep record of personal damages.
 - Give Written Notice: Send a formal, written (or electronic) notice to your landlord detailing the infestation and referencing your rights, as per local laws (like Colorado's HB19-1328 for bed bugs).
 - Know Your Local Laws: Landlord responsibilities vary; check your state/city laws (e.g., Colorado requires landlords to inspect within 96 hours of bed bug notice).
 - Warranty of Habitability: Landlords must maintain safe, habitable conditions.
+
+# No Longer Can You Trust The Search Results
+- Wondering why the username tied to your home listing links to scam or fishing sites, but not even your own project? Likely the answer is right under your nose. Find out which of the 'in-house search engine optimization professionals' is to blame.
+- ***They've been covering you in dirt since before you could open your eyes, in other words burying you.***
+- <img src="/inhouseSEOs.jpg" width="720">
 
