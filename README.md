@@ -27,4 +27,5 @@
 - Wondering why the username tied to your home listing links to scam or fishing sites, but not even your own project? Likely the answer is right under your nose. Find out which of the 'in-house search engine optimization professionals' is to blame.
 - ***They've been covering you in dirt since before you could open your eyes, in other words burying you.***
 - <img src="/inhouseSEOs.jpg" width="720">
-
+# You can't. What's the matter? The living proof
+[![Youtube](https://img.youtube.com/vi/OdI2P1gPL1A/hqdefault.jpg)](https://youtu.be/B9tF3KgEdAI)
