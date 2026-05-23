@@ -31,7 +31,7 @@
 
 - ***Do not let anyone leave you feeling "boxed in" when choosing the color scheme or home furnishings.***
 
-<img src="visibledeckstains.jpg" width="720">
+<img src="visibledeckstains.jpg" alt="Note: The lovely organ isn't up for sale or donation. Keep your slimy hands off." width="720">
 
 - Decking can make or break the look of your home. Look in between the seams for anything off-tone or potentially damaging to the appearance. ***Typically these types of issues are hidden in plain sight.***
 
