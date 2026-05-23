@@ -1,5 +1,5 @@
 # This-Old-House
-- ![Alt text](/stigmatizedproperty.jpg "")
+<img src="stigmatizedproperty.jpg" width="720">
 
 ***A quick reference guide for tenants and new owners***
 
@@ -8,14 +8,10 @@
 - 3. Ask around when picking a suitable home. Find out how long it's been vacant, there's a good chance the neighbors know something you don't.
 - 4. What are trap houses and what do they look like?
 
-- ![Alt text](/hiddencosts.jpg "")
-
-# Styling, Touch-ups and Furnishings
-- <img src="/mantelpiece.jpg" width="720">
-- <img src="/cameron.gif" width="720">
+<img src="hiddencosts.jpg" width="720">
 
 # Dealing With Bugs & Pests
-- <img src="/raid.png" width="720">
+<img src="/raid.png" width="720">
 
  ***What to Do When Facing a Bug Problem***
 - Document Everything: Take photos/videos of pests, infestations, and keep record of personal damages.
@@ -24,11 +20,29 @@
 - Warranty of Habitability: Landlords must maintain safe, habitable conditions.
 - Chronic, hidden, malicious infestation: Sometimes it's what they don't say. Nobody mention the neighboorhood offender/s? That's not silence, it's concealment.
 
-[![Youtube](/concealment.jpg)](https://youtu.be/nxe4MDzMdBw)
+<a href="https://youtu.be/nxe4MDzMdBw" target="_blank"><img src="concealment.jpg" alt=" " width="720"/></a>
+
+# Styling, Touch-ups and Furnishings, and Color Schemes
+- Do not slack when it comes to the visual inspection. You could find yourself knee-deep in repair costs if you aren't vigilant about inspecting the surroundings.
+
+<img src="mantelpiece.jpg" width="720">
+
+<img src="cameron.gif" width="720">
+
+- ***Do not let anyone leave you feeling "boxed in" when choosing the color scheme or home furnishings.***
+
+<img src="visibledeckstains.jpg" width="720">
+
+- Decking can make or break the look of your home. Look in between the seams for anything off-tone or potentially damaging to the appearance. ***Typically these types of issues are hidden in plain sight.***
 
 # No Longer Can You Trust The Search Results
 - Wondering why the username tied to your home listing links to scam or fishing sites, but not even your own project? Likely the answer is right under your nose. Find out which of the 'in-house search engine optimization professionals' is to blame.
 - ***They've been covering you in dirt since before you could open your eyes, in other words burying you.***
-- <img src="/inhouseSEOs.jpg" width="720">
-# You can't. What's the matter? The living proof
-[![Youtube](https://img.youtube.com/vi/OdI2P1gPL1A/hqdefault.jpg)](https://youtu.be/B9tF3KgEdAI)
+
+<img src="/inhouseSEOs.jpg" width="720">
+
+# When management's choices or behavior seems questionable, let it be known. Be loud when it's warrented.
+<a href="https://youtu.be/B9tF3KgEdAI" target="_blank"><img src="https://img.youtube.com/vi/OdI2P1gPL1A/hqdefault.jpg" alt=" " width="720"/></a>
+
+- You can't. What's the matter? The living proof
+
