@@ -1,5 +1,5 @@
 # This-Old-House
-<img src="stigmatizedproperty.jpg" width="720">
+<a href="https://youtu.be/CGib6okEeZ4" target="_blank"><img src="stigmatizedproperty.jpg" alt=" " width="720"/></a>
 
 ***A quick reference guide for tenants and new owners***
 
