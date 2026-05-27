@@ -22,7 +22,7 @@
 
 <a href="https://youtu.be/nxe4MDzMdBw" target="_blank"><img src="concealment.jpg" alt=" " width="720"/></a>
 
-# Styling, Touch-ups and Furnishings, and Color Schemes
+# Styling, Touch-ups, Furnishings, and Color Schemes
 - Do not slack when it comes to the visual inspection. You could find yourself knee-deep in repair costs if you aren't vigilant about inspecting the surroundings.
 
 <img src="mantelpiece.jpg" width="720">
@@ -34,6 +34,10 @@
 <img src="visibledeckstains.jpg" alt="Note: The lovely organ isn't up for sale or donation. Keep your slimy hands off." width="720">
 
 - Decking can make or break the look of your home. Look in between the seams for anything off-tone or potentially damaging to the appearance. ***Typically these types of issues are hidden in plain sight.***
+
+<img src="personalization.jpg" alt=" " width="720">
+
+- Not satisfied with the egregious stock presets, or ex owner's design flaws? You can do better, and best of all you don't need to be a technician either. Though if you're the do-it-yourself type, there's plenty of money to be saved. Alternatively, a hired hand can finish the job quickly when time is a concern. Which ever route you decide to take is up to you. Most importantly your house should feel like home, not living in someone else's juicy past. Every home owner has different taste, and only you know how to nail it.
 
 # No Longer Can You Trust The Search Results
 - Wondering why the username tied to your home listing links to scam or fishing sites, but not even your own project? Likely the answer is right under your nose. Find out which of the 'in-house search engine optimization professionals' is to blame.
