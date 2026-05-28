@@ -39,6 +39,8 @@
 
 - Not satisfied with the egregious stock presets, or ex owner's design flaws? You can do better, and best of all you don't need to be a technician either. Though if you're the do-it-yourself type, there's plenty of money to be saved. Alternatively, a hired hand can finish the job quickly when time is a concern. Which ever route you decide to take is up to you. Most importantly your house should feel like home, not living in someone else's juicy past. Every home owner has different taste, and only you know how to nail it.
 
+<a href="https://youtu.be/foNuz4byaMM" target="_blank"><img src="thecarsdrive.gif" alt=" " width="720"/></a>
+
 # No Longer Can You Trust The Search Results
 - Wondering why the username tied to your home listing links to scam or fishing sites, but not even your own project? Likely the answer is right under your nose. Find out which of the 'in-house search engine optimization professionals' is to blame.
 - ***They've been covering you in dirt since before you could open your eyes, in other words burying you.***
