@@ -41,6 +41,10 @@
 
 <a href="https://youtu.be/foNuz4byaMM" target="_blank"><img src="thecarsdrive.gif" alt=" " width="720"/></a>
 
+- Unhappy with the unsightly ancient carpeting or creaks coming from the wooden floors? Remember this is ***your*** house. A home can settle over the years, but you shouldn't. In case you aren't getting the drift,
+
+<a href="https://youtu.be/8KH2nJD0904" target="_blank"><img src="ancientcarpet.jpg" alt=" " width="720"/></a>
+
 # No Longer Can You Trust The Search Results
 - Wondering why the username tied to your home listing links to scam or fishing sites, but not even your own project? Likely the answer is right under your nose. Find out which of the 'in-house search engine optimization professionals' is to blame.
 - ***They've been covering you in dirt since before you could open your eyes, in other words burying you.***
