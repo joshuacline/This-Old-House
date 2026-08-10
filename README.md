@@ -78,6 +78,9 @@
 <a href="https://" target="_blank"><img src="hiddenbbq.jpg" alt="Not this publisher" width="720"/></a>
 
 - Attention home chefs: If you can't stomach a sampling of what you've been dishing out over the years, then you don't belong in the business. Beef, it's what's for dinner, and there's no one to blame but yourself.
+
+<a href="https://" target="_blank"><img src="spreadingfires.gif" alt=" " width="720"/></a>
+
 - Don't let them pass the buck around. Hidden dangers such as gas leaks can potentially put your life at risk. If a large company has been forwarding potential hazards to individual buyers, that's egregious intent to harm, and an abuse of power. Remember, courts typically rule in favor of the home buyer who would otherwise be left ruined without recourse.
 
 
