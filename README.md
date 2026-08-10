@@ -64,8 +64,11 @@
 
 <a href="https://" target="_blank"><img src="headlines.jpg" alt=" " width="720"/></a>
 
+- Editor's Note: Commentary from Edwin
 
+<a href="https://youtu.be/HFlrTDBIMLY" target="_blank"><img src="https://raw.githubusercontent.com/joshuacline/The-Final-Frontier/main/wordsmith.jpg" alt=" " width="720"/></a>
 
+- Glad to see you're paying attention Edwin. Did you expect anything less from the de facto authority @Microsoft of technical documentation for Microsoft certified IT professionals? Surely I hope not.
 
 
 
