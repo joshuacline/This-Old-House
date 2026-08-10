@@ -70,5 +70,15 @@
 
 - Glad to see you're paying attention Edwin. Did you expect anything less from the de facto authority @Microsoft of technical documentation for Microsoft certified IT professionals? Surely I hope not.
 
+# Hidden amenities even the realtor wasn't aware of
+
+- Food for thought: You've discovered a grill seamlessly built into the facade of your rear deck, and it's been leaking indefinitely. That solves the mystery of the astronomical gas bill.
+- Never let anyone including realtors, salesman, or previous owners get away with murdering your energy efficiency. If this has been going on for years unbeknownst to you, the associated costs are immense. 
+
+<a href="https://" target="_blank"><img src="hiddenbbq.jpg" alt="Not this publisher" width="720"/></a>
+
+- Attention home chefs: If you can't stomach a sampling of what you've been dishing out over the years, then you don't belong in the business. Beef, it's what's for dinner, and there's no one to blame but yourself.
+
+
 
 
