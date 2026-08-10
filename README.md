@@ -83,6 +83,6 @@
 
 - Don't let them pass the buck around. Hidden dangers such as gas leaks can potentially put your life at risk. If a large company has been forwarding potential hazards to individual buyers, that's egregious intent to harm, and an abuse of power. Remember, courts typically rule in favor of the home buyer who would otherwise be left ruined without recourse.
 
+<a href="https://" target="_blank"><img src="escaperooms.jpg" alt=" " width="720"/></a>
 
-
-
+- Your house should never feel like an escape room. This is your reputation, career, and ultimately your life at stake. When a company is putting those in jeopardy to revive their dying brand over your reputational corpse, they need to be held to account to the fullest extent of the law.
