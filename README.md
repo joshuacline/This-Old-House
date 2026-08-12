@@ -29,7 +29,7 @@
 
 <a href="https://www.xda-developers.com/author/joao-xda/" target="_blank"><img src="cameron.gif" alt="Meet our conveniently blind XDA editor" width="720"/></a>
 
-- Noticed anything off yet, Joã? Probably not.
+- Noticed anything off yet, João? Probably not.
 
 <img src="visibledeckstains.jpg" alt="Note: The lovely organ isn't up for sale or donation." width="720">
 
