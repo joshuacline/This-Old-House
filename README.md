@@ -76,7 +76,7 @@
 - Food for thought: You've discovered a grill seamlessly built into the facade of your rear deck, and it's been leaking indefinitely. That solves the mystery of the astronomical gas bill.
 - Never let anyone including realtors, salesman, or previous owners get away with murdering your energy efficiency. If this has been going on for years unbeknownst to you, the associated costs are immense. 
 
-<a href="https://" target="_blank"><img src="hiddenbbq.jpg" alt="Not this publisher" width="720"/></a>
+<a href="https://youtu.be/qojvO0E0z_Y" target="_blank"><img src="hiddenbbq.jpg" alt="Not this publisher" width="720"/></a>
 
 <a href="https://" target="_blank"><img src="yeetcleaner.gif" alt=" " width="720"/></a>
 
